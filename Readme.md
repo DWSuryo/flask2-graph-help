@@ -9,7 +9,7 @@ Types of testing:
 2. Energy test from generator
 
 ## 1. Energy test from MQTT
-run `python mqtt_pub_test_sensor.py` for mqtt
+run `python mqtt_pub_test_sensor.py` for mqtt (`mqtt_puub_test_obj.py` not used)
 
 ## 2. Energy test from generator
 run `python date_test_rt.py` for csv generator
