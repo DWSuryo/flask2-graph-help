@@ -1,8 +1,3 @@
-# Created by Rui Santos
-# Complete project details: https://randomnerdtutorials.com
-#
-# SQLite version 3.8.6 2014-08-15 11:46:33
-
 import paho.mqtt.client as mqtt
 from flask import (Flask, render_template, request, redirect, url_for)
 from flask_socketio import SocketIO, emit
