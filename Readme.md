@@ -12,4 +12,4 @@ Types of testing:
 run `python mqtt_pub_test_sensor.py` for mqtt
 
 ## 2. Energy test from generator
-run `python date_test_rt.html` for csv generator
+run `python date_test_rt.py` for csv generator
